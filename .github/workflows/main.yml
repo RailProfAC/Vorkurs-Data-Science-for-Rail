@@ -10,10 +10,10 @@ jobs:
         uses: dante-ev/latex-action@latest
         with:
           root_file: |
-          IntroDataScience/Handout-IntroDataScience.tex
-          IntroDataScience/Slides-IntroDataScience.tex
-          IntroPythonJupyter/Handout-IntroPythonJupyter.tex
-          IntroPythonJupyter/Slides-IntroPythonJupyter.tex
-          Datastructures/Handout-Datastructures.tex
-          Datastructures/Handout-Pandas.tex
-          Exploration/Handout-Exploration.tex
+            IntroDataScience/Handout-IntroDataScience.tex
+            IntroDataScience/Slides-IntroDataScience.tex
+            IntroPythonJupyter/Handout-IntroPythonJupyter.tex
+            IntroPythonJupyter/Slides-IntroPythonJupyter.tex
+            Datastructures/Handout-Datastructures.tex
+            Datastructures/Handout-Pandas.tex
+            Exploration/Handout-Exploration.tex
