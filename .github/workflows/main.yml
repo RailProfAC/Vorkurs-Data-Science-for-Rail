@@ -9,4 +9,11 @@ jobs:
       - name: Compile first LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          entrypoint: ./tex.sh
+          root_file: |
+          IntroDataScience/Handout-IntroDataScience.tex
+          IntroDataScience/Slides-IntroDataScience.tex
+          IntroPythonJupyter/Handout-IntroPythonJupyter.tex
+          IntroPythonJupyter/Slides-IntroPythonJupyter.tex
+          Datastructures/Handout-Datastructures.tex
+          Datastructures/Handout-Pandas.tex
+          Exploration/Handout-Exploration.tex
