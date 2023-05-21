@@ -1,8 +1,8 @@
 # Introduction to Python and Jupyter
 
-This module aims to give you a brief introduction to the Python language as well as Jupyter Notebooks.
+This module aims to give you anintroduction to Python data structures and the Pandas library.
 
 ## Learning outcomes
 
-- Execution of simple Python scripts in terminal
-- Hello World example in Jupyter
+- Knowledge of datastructures in Python
+- Knowledge and some initial usage of Pandas
