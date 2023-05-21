@@ -1,12 +1,1 @@
-name: Build LaTeX document
-on: [push]
-jobs:
-  build_latex:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Set up Git repository
-        uses: actions/checkout@v2
-      - name: Compile first LaTeX document
-        uses: dante-ev/latex-action@latest
-        with:
-          entrypoint: ./tex.sh
+
