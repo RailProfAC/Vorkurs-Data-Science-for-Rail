@@ -41,6 +41,8 @@ Alternativ bietet sich die lokale Installation an, hier ist das Paket von [Anaco
 
 https://vimeo.com/680110960?share=copy
 
+https://player.vimeo.com/video/680110960
+
 ## Alle Videos in einer Playlist
 
 Alle Videos in einer Playlist in Vimeo sind hier: 
