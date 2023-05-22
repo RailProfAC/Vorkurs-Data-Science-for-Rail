@@ -37,8 +37,12 @@ Dort dann das jeweilige Notebook ausführen.
 
 #### Lokale Installation
 
-Alternativ bietet sich die lokale Installation an, hier ist das Paket von [Anaconda](https://www.anaconda.com/download) zu empfehlen. Ein Video zu Installation findet ihr [hier](https://vimeo.com/680110960?share=copy).
+Alternativ bietet sich die lokale Installation an, hier ist das Paket von [Anaconda](https://www.anaconda.com/download) zu empfehlen. Ein Video zu Installation findet ihr hier:
+
+https://vimeo.com/680110960?share=copy
 
 ## Alle Videos in einer Playlist
 
-<div style='padding:62.5% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/10413895/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+Alle Videos in einer Playlist in Vimeo sind hier: 
+
+https://vimeo.com/showcase/10413895/embed
