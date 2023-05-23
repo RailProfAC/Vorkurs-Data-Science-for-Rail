@@ -6,9 +6,7 @@ Repository für den Vorkurs.
 
 ### Python
 
-## 
-
-## Skripte online ausführen
+#### Skripte online ausführen
 
 Das ist an vielen Orten online möglich, z.B. bei [Python.org](https://www.python.org/shell/).
 
